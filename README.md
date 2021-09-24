@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultraxcodes)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultraxcode)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
