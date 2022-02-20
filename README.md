@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/anurag90420472" target="blank"><img src="https://img.shields.io/twitter/follow/anurag90420472?logo=twitter&style=for-the-badge" alt="anurag90420472" /></a> </p>
 
-- 🔭 I’m currently working on **A.I Assistant**
+- 🔭 I’m currently working on **FRONT-END PROJECTS**
 
-- 🌱 I’m currently learning **JavaScript Algorithms**
+- 🌱 I’m currently learning **DSA & JAVA**
 
 - 👯 I’m looking to collaborate on **Anything**
 
