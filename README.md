@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultraxcode&label=Profile%20views&color=0e75b6&style=flat" alt="ultraxcode" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fatfreebutter" target="blank"><img src="https://img.shields.io/twitter/follow/anurag90420472?logo=twitter&style=for-the-badge" alt="anurag90420472" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fatfreebutter" target="blank"><img src="https://img.shields.io/twitter/follow/fatfreebutter?logo=twitter&style=for-the-badge" alt="fatfreebutter" /></a> </p>
 
-- 🔭 I’m currently working on **FRONT-END PROJECTS**
+- 🔭 I’m currently working on **AI FACE MASK PROJECT**
 
 - 🌱 I’m currently learning **DSA & JAVA**
 
