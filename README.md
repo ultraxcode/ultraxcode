@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **anuragx19@gmail.com**
 
-- 📄 My Resume [https://www.notion.so/Anurag-s-Resume-0e89a176afe84c659a51b5e39c1d6eca?pvs=4](https://www.notion.so/Anurag-s-Resume-0e89a176afe84c659a51b5e39c1d6eca?pvs=4)
+- 📄 My Resume [ Click Here ! ]([https://www.notion.so/Anurag-s-Resume-0e89a176afe84c659a51b5e39c1d6eca?pvs=4](https://drive.google.com/file/d/1_kWCJYbf6TBY1PqxIGVdGLgCAClT5qrC/view?usp=sharing))
 
 - ⚡ Quote of the day. **"Resonable men do not achieve anything"**
 
