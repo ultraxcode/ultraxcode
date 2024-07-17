@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/fatfreebutter" target="blank"><img src="https://img.shields.io/twitter/follow/fatfreebutter?logo=twitter&style=for-the-badge" alt="fatfreebutter" /></a> </p>
 
-- 🔭 I’m currently working on **Front-End Resource and Roadmap Website**
+- 🔭 I’m currently working on **Full stack Personal Website**
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently learning **DevOps Engineering**
 
-- 👯 I’m looking for people to learn **Front-end with me**
+- 👯 I’m looking for people to learn **DevOps With Me**
 
-- 🤝 I’m looking for help with **Front-End Resource and Roadmap Website**
+- 🤝 I’m looking for help with **"How to become a strong DEV !**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ultraxcode](https://github.com/ultraxcode)
 
 - 📝 I regularly write articles on [https://hashnode.com/@ultraxcode](https://hashnode.com/@ultraxcode)
 
-- 💬 Ask me about **Blockchain, Cyber Security, Front-End and Technology**
+- 💬 Ask me about **Blockchain, Cyber Security and Personal Finance**
 
 - 📫 How to reach me **anuragx19@gmail.com**
 
