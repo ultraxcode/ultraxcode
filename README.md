@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">Cyber Security Analyst in HCL Tech</h3>
+<h3 align="center">CloudOps/SecOps Engineer at Nagarro Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultraxcode&label=Profile%20views&color=0e75b6&style=flat" alt="ultraxcode" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking for people to learn **DevOps With Me**
 
-- 🤝 I’m looking for help with **"How to become a strong DEV !**
+- 🤝 I’m looking for help with **Becoming a Data Analyst and an DevOps Engineer!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ultraxcode](https://github.com/ultraxcode)
 
@@ -20,8 +20,6 @@
 - 💬 Ask me about **Blockchain, Cyber Security and Personal Finance**
 
 - 📫 How to reach me **anuragx19@gmail.com**
-
-- 📄 My Resume [ Click Here ! ]([https://www.notion.so/Anurag-s-Resume-0e89a176afe84c659a51b5e39c1d6eca?pvs=4](https://drive.google.com/file/d/1_kWCJYbf6TBY1PqxIGVdGLgCAClT5qrC/view?usp=sharing))
 
 - ⚡ Quote of the day. **"Resonable men do not achieve anything"**
 
